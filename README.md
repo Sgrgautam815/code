@@ -43,3 +43,20 @@ The project includes three fully interactive Plotly graphs that show:
 
 ## 📂 Output Files
 
+💡 Insights
+Stock prices tend to follow sentiment trends
+
+A strong positive correlation (~0.84) was observed
+
+This analysis provides a foundation for using real-world sentiment data in financial modeling
+
+🛠 Tools Used
+Python (Pandas, NumPy)
+
+Plotly for interactive charts
+
+Jupyter Notebook for exploratory analysis
+
+📌 Conclusion
+This project demonstrates how even synthetic sentiment data can influence stock behavior. It opens the door to real-time sentiment-trading analytics using Twitter, Reddit, or other social media data sources.
+
