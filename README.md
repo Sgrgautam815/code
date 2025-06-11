@@ -52,9 +52,7 @@ This analysis provides a foundation for using real-world sentiment data in finan
 
 🛠 Tools Used
 Python (Pandas, NumPy)
-
 Plotly for interactive charts
-
 Jupyter Notebook for exploratory analysis
 
 📌 Conclusion
